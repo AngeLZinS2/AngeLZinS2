@@ -25,11 +25,27 @@
 
 ---
 
-## 📌 Projetos em destaque
-- 🎨 **Test Front End** → Pacote completo de UIs para FiveM (HUD, inventário, login, banco, etc.)  
-- 🌐 **Espaço Vitae** → Landing Page moderna com painel admin (ONG sem fins lucrativos)  
-- 💰 **Sistema Financeiro** → Aplicação em React + API para registrar transações e agendar pagamentos  
-- 📺 **Plataforma de Streaming** → Pipeline com Netlify + Deta.sh (histórico, lista, login, player externo)  
+## 🚀 Projetos em Destaque
+
+<div align="center">
+
+  <a href="https://github.com/AngeLZinS2/Test-front-end">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AngeLZinS2&repo=Test-front-end&theme=tokyonight" />
+  </a>
+  
+  <a href="https://github.com/AngeLZinS2/espaco-vitae">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AngeLZinS2&repo=espaco-vitae&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/AngeLZinS2/financeiro-react">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AngeLZinS2&repo=financeiro-react&theme=tokyonight" />
+  </a>
+  
+  <a href="https://github.com/AngeLZinS2/streaming-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AngeLZinS2&repo=streaming-platform&theme=tokyonight" />
+  </a>
+
+</div>
 
 ---
 
