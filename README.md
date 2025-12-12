@@ -1,75 +1,80 @@
-# 👋 Olá, eu sou o Angelo Neri
+<div align="center">
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (conclusão prevista: 2026).  
-💻 Atualmente, atuo como **estagiário de suporte técnico**, com experiência em manutenção de hardware e software.  
-🚀 Focado em **desenvolvimento backend** com **Java** e **Python**, além de integrar soluções com **Inteligência Artificial**.  
-🤖 Usuário e entusiasta de **IA aplicada à programação**, explorando formas de otimizar e acelerar o desenvolvimento de sistemas.  
-
----
-
-## 🔧 Tecnologias & Ferramentas
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white) 
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) 
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  
-
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white) 
-![Deta.sh](https://img.shields.io/badge/Deta.sh-%23000000.svg?style=for-the-badge&logo=databricks&logoColor=white) 
-![AI](https://img.shields.io/badge/Artificial_Intelligence-%23007ACC.svg?style=for-the-badge&logo=openai&logoColor=white)
-
----
-
-
-
-## 📌 Projetos em destaque
-- 🎨 **Test Front End** → Pacote completo de UIs para FiveM (HUD, inventário, login, banco, etc.)  
-- 🌐 **Espaço Vitae** → Landing Page moderna com painel admin (ONG sem fins lucrativos)  
-- 💰 **Sistema Financeiro** → Aplicação em React + API para registrar transações e agendar pagamentos  
-- 📺 **Plataforma de Streaming** → Pipeline com Netlify + Deta.sh (histórico, lista, login, player externo)  
-
----
-
-## 🌱 Atualmente estudando
-- **Backend em Java** → POO, estruturas, boas práticas e frameworks (Spring no radar)  
-- **Backend em Python** → Criação de APIs com FastAPI e Flask  
-- **IA aplicada** → uso de modelos e ferramentas de inteligência artificial em aplicações reais  
-- **Integração frontend + backend** para sistemas completos  
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AngeLZinS2&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeLZinS2&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AngeLZinS2&theme=tokyonight" alt="GitHub Streak" height="160"/>
-</p>
-
----
-
-## 📫 Contatos
-
-<p align="center">
-  <a href="mailto:angelo.neri2020@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Angelo+Neri;Full+Stack+Developer;Front-end+Specialist;Tech+Enthusiast" alt="Typing SVG" />
   </a>
+
+  <br/>
+
+  <p>
+     <i>"Transformando café em código e ideias em interfaces incríveis."</i> ☕ + 💻
+  </p>
+
+  <p>
+    Sou um desenvolvedor apaixonado por criar experiências visuais impactantes e backends robustos.<br>
+    Atualmente focado em <b>React, Python e Arquitetura de Software</b>.
+  </p>
+
+  <br/>
+
+  <h3>🚀 Tech Stack & Ferramentas</h3>
+  
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,angular,js,html,css,tailwind,python,java,c&perline=9" />
+    </a>
+    <br/>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=flask,fastapi,mysql,sqlite,docker,git,linux,netlify,vscode&perline=9" />
+    </a>
+  </p>
+
+</div>
+
+<br/>
+
+---
+
+## 🎨 Projetos em Destaque
+
+| Projeto | Stack | Detalhes |
+| :--- | :---: | :--- |
+| **Espaço Vitae** | `React` `Node` | Landing Page moderna para ONG com painel administrativo e design responsivo. |
+| **FiveM UI Pack** | `HTML` `CSS` `JS` | Pacote completo de interfaces imersivas (HUD, Inventário, Banco) para GTA RP. |
+| **Sistema Financeiro** | `React` `API` | Aplicação para controle de gastos, agendamento e dashboard financeiro. |
+| **Streaming Platform** | `Netlify` `Deta.sh` | Pipeline completa de streaming com histórico, auth e player customizado. |
+
+<br/>
+
+---
+
+<div align="center">
+  <h2>📊 GitHub Analytics</h2>
+  
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=AngeLZinS2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeLZinS2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="Langs" />
+  </div>
+
+  <br/>
+  
+  <img src="https://streak-stats.demolab.com?user=AngeLZinS2&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Streak" />
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <h3>📫 Vamos nos conectar?</h3>
+  
   <a href="https://www.linkedin.com/in/angelo-neri-3921a72b9/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/AngeLZinS2" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="mailto:angelo.neri2020@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
-</p>
-
----
-
-⭐ Se curtir algum projeto, não esquece de dar uma estrela!
+   <a href="https://github.com/AngeLZinS2">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  </a>
+</div>
