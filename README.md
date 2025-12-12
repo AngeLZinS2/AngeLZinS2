@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Angelo+Neri;Full+Stack+Developer;Front-end+Specialist;Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Angelo+Neri;Full+Stack+Developer;Front-end+Specialist;Tech+Enthusiast" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -19,7 +19,7 @@
 
   <h3>🚀 Tech Stack & Ferramentas</h3>
   
-  <p>
+  <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=react,angular,js,html,css,tailwind,python,java,c&perline=9" />
     </a>
@@ -51,14 +51,14 @@
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
   
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=AngeLZinS2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeLZinS2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="Langs" />
-  </div>
-
-  <br/>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=AngeLZinS2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeLZinS2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Langs" />
+  </p>
   
-  <img src="https://streak-stats.demolab.com?user=AngeLZinS2&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Streak" />
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=AngeLZinS2&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Streak" />
+  </p>
 </div>
 
 <br/>
