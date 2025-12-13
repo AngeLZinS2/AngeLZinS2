@@ -56,10 +56,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeLZinS2&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Langs" />
   </p>
   
-  <p>
-    <img src="https://streak-stats.demolab.com?user=AngeLZinS2&theme=tokyonight&hide_border=true" height="150" alt="Streak Stats" />
-  </p>
-</div>
+
 
 <br/>
 
