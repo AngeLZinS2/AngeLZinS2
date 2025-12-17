@@ -39,10 +39,11 @@
 
 | Projeto | Stack | Detalhes |
 | :--- | :---: | :--- |
-| **Espaço Vitae** | `React` `Node` | Landing Page moderna para ONG com painel administrativo e design responsivo. |
-| **FiveM UI Pack** | `HTML` `CSS` `JS` | Pacote completo de interfaces imersivas (HUD, Inventário, Banco) para GTA RP. |
-| **Sistema Financeiro** | `React` `API` | Aplicação para controle de gastos, agendamento e dashboard financeiro. |
-| **Streaming Platform** | `Netlify` `Deta.sh` | Pipeline completa de streaming com histórico, auth e player customizado. |
+| [**Portal ONG**](https://github.com/AngeLZinS2/Angular_ong_site) | `Angular` `TS` | Plataforma web desenvolvida para gestão e divulgação de ONGs. |
+| [**Guild Shop**](https://github.com/AngeLZinS2/Guild.Shop) | `HTML` `CSS` `JS` | Sistema de loja virtual focado em guildas e comunidades de jogos. |
+| [**FindMe**](https://github.com/AngeLZinS2/FindMe) | `React` `API` | Aplicação de localização e busca com integração de mapas. |
+| [**Clínica Protheus**](https://github.com/AngeLZinS2/Clinica-Protheus) | `React` `Python` | Sistema completo de gestão clínica (Fullstack) com agendamentos. |
+| [**A Queda de Chimera**](https://github.com/AngeLZinS2/A-Queda-de-Chimera-Game) | `C` `GameDev` | Jogo de aventura desenvolvido com lógica complexa e mecânicas imersivas. |
 
 <br/>
 
@@ -53,10 +54,13 @@
   
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=AngeLZinS2&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
-    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeLZinS2&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Langs" />
   </p>
   
-
+  <p>
+    <img src="https://streak-stats.demolab.com?user=AngeLZinS2&theme=tokyonight&hide_border=true" height="150" alt="Streak Stats" />
+  </p>
+</div>
 
 <br/>
 
