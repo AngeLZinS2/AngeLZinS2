@@ -58,7 +58,7 @@
   </p>
   
   <p>
-    <img src="https://streak-stats.demolab.com?user=AngeLZinS2&theme=tokyonight&hide_border=true" height="150" alt="Streak Stats" />
+  
   </p>
 </div>
 
