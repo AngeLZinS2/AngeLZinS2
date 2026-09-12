@@ -56,42 +56,39 @@ class AngeloNeri:
 
 <table>
 <tr>
-<td width="50%">
-<a href="https://github.com/AngeLZinS2/TCC-Game_Analytics">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AngeLZinS2&repo=TCC-Game_Analytics&theme=tokyonight&hide_border=true" />
-</a>
-<p align="center">🎓 <i>Trabalho de Conclusão de Curso — em andamento</i></p>
-</td>
-<td width="50%">
-<a href="https://github.com/AngeLZinS2/AniPT">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AngeLZinS2&repo=AniPT&theme=tokyonight&hide_border=true" />
-</a>
-<p align="center">⭐ CLI de anime em Go com TUI — 6 estrelas</p>
-</td>
+<td width="34%" align="center"><b>Projeto</b></td>
+<td width="26%" align="center"><b>Stack</b></td>
+<td width="40%" align="center"><b>Detalhes</b></td>
 </tr>
 <tr>
-<td width="50%">
-<a href="https://github.com/AngeLZinS2/Clinica-Protheus">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AngeLZinS2&repo=Clinica-Protheus&theme=tokyonight&hide_border=true" />
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/AngeLZinS2/Angular_ong_site">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AngeLZinS2&repo=Angular_ong_site&theme=tokyonight&hide_border=true" />
-</a>
-</td>
+<td><a href="https://github.com/AngeLZinS2/TCC-Game_Analytics"><b>TCC · Game Analytics</b></a></td>
+<td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
+<td>🎓 Trabalho de Conclusão de Curso — análise de dados aplicada a games. <i>Em andamento</i></td>
 </tr>
 <tr>
-<td width="50%">
-<a href="https://github.com/AngeLZinS2/Guild.Shop">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AngeLZinS2&repo=Guild.Shop&theme=tokyonight&hide_border=true" />
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/AngeLZinS2/FindME_FSA">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AngeLZinS2&repo=FindME_FSA&theme=tokyonight&hide_border=true" />
-</a>
-</td>
+<td><a href="https://github.com/AngeLZinS2/AniPT"><b>AniPT</b></a></td>
+<td align="center"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/></td>
+<td>⭐ CLI brasileiro para assistir animes no terminal, com TUI em Bubble Tea. 6 estrelas · MIT</td>
+</tr>
+<tr>
+<td><a href="https://github.com/AngeLZinS2/Clinica-Protheus"><b>Clínica Protheus</b></a></td>
+<td align="center"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
+<td>Sistema completo de gestão clínica (Fullstack) com agendamentos, backend Flask MVC + JWT.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/AngeLZinS2/Angular_ong_site"><b>Portal ONG</b></a></td>
+<td align="center"><img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/></td>
+<td>Plataforma web para gestão e divulgação de ONGs (Angular 19 + Flask + SQLite).</td>
+</tr>
+<tr>
+<td><a href="https://github.com/AngeLZinS2/Guild.Shop"><b>Guild Shop</b></a></td>
+<td align="center"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></td>
+<td>Gerenciamento de inventário e distribuição para comunidades de jogos.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/AngeLZinS2/FindME_FSA"><b>FindMe</b></a></td>
+<td align="center"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></td>
+<td>Plataforma de descoberta e participação em eventos locais, com busca por localização.</td>
 </tr>
 </table>
 
@@ -111,10 +108,6 @@ class AngeloNeri:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeLZinS2&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Langs" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngeLZinS2&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=AngeLZinS2&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AngeLZinS2&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
 
 </div>
 
