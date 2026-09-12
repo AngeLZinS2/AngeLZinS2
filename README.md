@@ -104,10 +104,12 @@ class AngeloNeri:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AngeLZinS2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeLZinS2&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Langs" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngeLZinS2&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/AngeLZinS2?style=for-the-badge&logo=github&color=8E2DE2&label=Seguidores&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AngeLZinS2&label=Reposit%C3%B3rios%20p%C3%BAblicos&query=%24.public_repos&color=4A00E0&style=for-the-badge&logo=github&labelColor=1a1a2e" />
 
 </div>
 
