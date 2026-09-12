@@ -12,20 +12,20 @@
 
   <p>
     Sou um desenvolvedor apaixonado por criar experiências visuais impactantes e backends robustos.<br>
-    Atualmente focado em <b>React, Python e Arquitetura de Software</b>.
+    Atualmente focado em <b>React, Python e Arquitetura de Software</b> — e trabalhando no meu TCC. 🎓
   </p>
 
   <br/>
 
   <h3>🚀 Tech Stack & Ferramentas</h3>
-  
+
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,angular,js,html,css,tailwind,python,java,c&perline=9" />
+      <img src="https://skillicons.dev/icons?i=react,angular,js,ts,html,css,tailwind,python,java,c,go&perline=11" />
     </a>
     <br/>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=flask,fastapi,mysql,sqlite,docker,git,linux,netlify,vscode&perline=9" />
+      <img src="https://skillicons.dev/icons?i=flask,fastapi,mysql,sqlite,docker,git,github,linux,netlify,vscode&perline=11" />
     </a>
   </p>
 
@@ -39,11 +39,13 @@
 
 | Projeto | Stack | Detalhes |
 | :--- | :---: | :--- |
-| [**Portal ONG**](https://github.com/AngeLZinS2/Angular_ong_site) | `Angular` `TS` | Plataforma web desenvolvida para gestão e divulgação de ONGs. |
-| [**Guild Shop**](https://github.com/AngeLZinS2/Guild.Shop) | `HTML` `CSS` `JS` | Sistema de loja virtual focado em guildas e comunidades de jogos. |
-| [**FindMe**](https://github.com/AngeLZinS2/FindMe) | `React` `API` | Aplicação de localização e busca com integração de mapas. |
-| [**Clínica Protheus**](https://github.com/AngeLZinS2/Clinica-Protheus) | `React` `Python` | Sistema completo de gestão clínica (Fullstack) com agendamentos. |
-| [**A Queda de Chimera**](https://github.com/AngeLZinS2/A-Queda-de-Chimera-Game) | `C` `GameDev` | Jogo de aventura desenvolvido com lógica complexa e mecânicas imersivas. |
+| [**TCC · Game Analytics**](https://github.com/AngeLZinS2/TCC-Game_Analytics) | `Python` | Trabalho de Conclusão de Curso — análise de dados aplicada a games. 🎓 *Em andamento* |
+| [**AniPT**](https://github.com/AngeLZinS2/AniPT) | `Go` | CLI brasileiro para assistir animes no terminal, com TUI rica em Bubble Tea. ⭐ 6 estrelas · MIT |
+| [**Portal ONG**](https://github.com/AngeLZinS2/Angular_ong_site) | `Angular` `Python` | Plataforma web para gestão e divulgação de ONGs (Angular 19 + Flask + SQLite). |
+| [**Clínica Protheus**](https://github.com/AngeLZinS2/Clinica-Protheus) | `React` `Python` | Sistema completo de gestão clínica (Fullstack) com agendamentos, backend Flask MVC + JWT. |
+| [**Guild Shop**](https://github.com/AngeLZinS2/Guild.Shop) | `React` `TS` | Gerenciamento de inventário e distribuição para comunidades de jogos. |
+| [**FindMe**](https://github.com/AngeLZinS2/FindME_FSA) | `React` `TS` | Plataforma de descoberta e participação em eventos locais, com busca por localização. |
+| [**A Queda de Chimera**](https://github.com/AngeLZinS2/A-Queda-de-Chimera-Game) | `GDScript` | Jogo de aventura com lógica complexa e mecânicas imersivas. |
 
 <br/>
 
@@ -51,15 +53,18 @@
 
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
-  
+
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=AngeLZinS2&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeLZinS2&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AngeLZinS2&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeLZinS2&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Langs" />
   </p>
-  
-  <p>
-  
-  </p>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngeLZinS2&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+  <br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AngeLZinS2&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
+
 </div>
 
 <br/>
@@ -68,14 +73,19 @@
 
 <div align="center">
   <h3>📫 Vamos nos conectar?</h3>
-  
+
   <a href="https://www.linkedin.com/in/angelo-neri-3921a72b9/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:angelo.neri2020@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-   <a href="https://github.com/AngeLZinS2">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  <a href="https://github.com/AngeLZinS2">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=AngeLZinS2&label=Visualizações%20do%20perfil&color=61DAFB&style=flat" alt="Profile views" />
+
 </div>
