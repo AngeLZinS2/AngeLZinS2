@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Angelo%20Neri&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Frontend%20%26%20Full%20Stack&descAlignY=55&descSize=18" width="100%"/>
+<img src="./header.svg" width="100%" alt="Angelo Neri — Software Developer"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&duration=2600&pause=900&color=B57BFF&center=true&vCenter=true&width=820&lines=%3E+whoami;%3E+software+developer+building+real-world+projects;%3E+React+%2B+TypeScript+%2B+Python;%3E+APIs+%2B+PostgreSQL+%2B+Docker;%3E+open+to+remote+%26+international+opportunities+%F0%9F%8C%8E" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=900&color=B57BFF&center=true&vCenter=true&width=820&lines=%3E+whoami;%3E+software+developer+building+real-world+projects;%3E+React+%2B+TypeScript+%2B+Python;%3E+APIs+%2B+PostgreSQL+%2B+Docker;%3E+open+to+remote+%26+international+opportunities+%F0%9F%8C%8E" alt="Typing SVG"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/Software%20Developer-8E2DE2?style=for-the-badge&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/Frontend%20%26%20Full%20Stack-4A00E0?style=for-the-badge&labelColor=1a1a2e"/>
@@ -13,32 +13,34 @@
 <br/><br/>
 
 <a href="#-english">🇺🇸 English</a>
- ·  <a href="#-português">🇧🇷 Português</a>
+&nbsp;·&nbsp;
+<a href="#-português">🇧🇷 Português</a>
 
 </div>
 
 ---
 
+# 🇺🇸 English
+
 ## 👋 About Me
 
-I'm **Angelo Neri**, a Software Developer from **Feira de Santana, Bahia, Brazil**, currently pursuing a degree in **Systems Analysis and Development at UNIFAN**.
+I'm **Angelo Neri**, a Software Developer from **Feira de Santana, Bahia, Brazil**, currently completing a degree in **Systems Analysis and Development at UNIFAN**.
 
-My main focus is building **web applications, APIs, data-driven platforms and developer tools**.
+My focus is building **web applications, REST APIs, data-driven platforms and developer tools**.
 
-I enjoy working across the stack — from modern, responsive interfaces with **React and TypeScript** to backend services with **Python, FastAPI and Flask**, relational databases, external APIs and containerized environments.
+I work mainly with **React and TypeScript** on the frontend and **Python, FastAPI and Flask** on the backend, with experience in **PostgreSQL, SQL, external API integrations, ETL, Docker and Linux**.
 
-I also have professional experience in **N2 IT Support**, working with enterprise systems, troubleshooting, SQL/Oracle and real-world technical incidents.
+I also have professional experience as an **N2 IT Support Technician**, working with enterprise systems, troubleshooting, SQL/Oracle and real-world technical incidents.
 
-Currently, I'm focused on:
+### Currently focused on
 
-* 🚀 Building production-oriented software projects
-* ⚛️ React + TypeScript frontend development
-* 🐍 Python backend development
-* 🔌 REST APIs & external integrations
-* 🗄️ PostgreSQL & SQL
-* 🐳 Docker & Linux
-* 🎮 Games & esports data
-* 🌎 International and remote opportunities
+- ⚛️ React + TypeScript frontend development
+- 🐍 Python backend development
+- 🔌 REST APIs & external integrations
+- 🗄️ PostgreSQL, SQL & data pipelines
+- 🐳 Docker, Linux & Git
+- 🎮 Games & esports data
+- 🌎 Remote and international opportunities
 
 ---
 
@@ -50,7 +52,7 @@ Currently, I'm focused on:
 <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite" />
 </p>
 
-**React · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind CSS · Vite · Responsive UI · REST APIs**
+**React · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind CSS · Vite · Responsive UI**
 
 ### Backend
 
@@ -83,9 +85,9 @@ Currently, I'm focused on:
 
 **Python · FastAPI · React · TypeScript · PostgreSQL · Docker · ETL · REST APIs**
 
-A data platform focused on **games and esports analytics**, developed as my final-year academic project.
+My main academic and engineering project: a data platform for **games and esports analytics**.
 
-The architecture includes:
+Architecture:
 
 ```text
 External APIs
@@ -105,18 +107,16 @@ React Dashboard
 
 ### Highlights
 
-* 🎮 Steam data collection and analysis
-* 📊 Game and esports analytics
-* 🔌 Multiple external API integrations
-* 🗄️ PostgreSQL data storage
-* 🔄 ETL pipelines
-* 🐳 Dockerized services
-* ⚡ FastAPI backend
-* ⚛️ React dashboard
-* 🛡️ Rate limiting and retry strategies
-* 📦 Modular collector architecture
-
-**This is currently my main software engineering project.**
+- 🎮 Steam catalog and game data
+- 📊 Games & esports analytics
+- 🔌 Multiple external API integrations
+- 🗄️ PostgreSQL data storage
+- 🔄 ETL pipelines
+- 🐳 Dockerized services
+- ⚡ FastAPI backend
+- ⚛️ React dashboard
+- 🛡️ Rate limiting and retry strategies
+- 📦 Modular collector architecture
 
 ---
 
@@ -126,25 +126,21 @@ React Dashboard
 <img src="https://img.shields.io/badge/GitHub-Universal%20Translator-181717?style=for-the-badge&logo=github"/>
 </a>
 
-**JavaScript · Chrome Extension · Manifest V3 · WebSockets · AudioWorklet · Deepgram · Google Translate**
+**JavaScript · Chrome Manifest V3 · WebSockets · AudioWorklet · Deepgram · Google Translate**
 
-A browser extension designed to provide **real-time translated captions** for live streams and recorded videos.
+A browser extension for **real-time translated captions** on live streams and recorded videos.
 
-Supports platforms such as:
-
-* 🎥 Twitch
-* ▶️ YouTube
-* 🎮 Kick
+Supports **Twitch, YouTube and Kick**, with an esports-oriented mode for gaming broadcasts.
 
 ### Highlights
 
-* 🎙️ Real-time speech recognition
-* 🌎 Automatic translation
-* 🔊 Audio processing
-* 💬 Live subtitle rendering
-* ⚡ WebSocket communication
-* 🎮 Esports-oriented mode
-* 🧩 Chrome Manifest V3 architecture
+- 🎙️ Real-time speech recognition
+- 🌎 Automatic translation
+- 🔊 Browser audio processing
+- 💬 Live subtitle rendering
+- ⚡ WebSocket communication
+- 🎮 Esports mode
+- 🧩 Manifest V3 architecture
 
 ---
 
@@ -158,15 +154,15 @@ Supports platforms such as:
 
 Full-stack clinic management platform featuring:
 
-* 🔐 Authentication & authorization
-* 👥 Patient management
-* 📅 Appointment scheduling
-* 🩺 Procedures
-* 📊 Dashboard
-* 🔎 Search & filtering
-* 📄 Pagination
-* 📝 Audit logs
-* 🧱 MVC + service-layer architecture
+- 🔐 Authentication & authorization
+- 👥 Patient management
+- 📅 Appointment scheduling
+- 🩺 Procedures
+- 📊 Dashboard
+- 🔎 Search & filtering
+- 📄 Pagination
+- 📝 Audit logs
+- 🧱 MVC + service-layer architecture
 
 ---
 
@@ -180,16 +176,14 @@ Full-stack clinic management platform featuring:
 
 REST API focused on backend architecture and business logic.
 
-Includes:
-
-* RESTful CRUD
-* JWT authentication
-* Password hashing
-* Validation
-* Business rules
-* Pagination
-* Database migrations
-* Layered architecture
+- RESTful CRUD
+- JWT authentication
+- Password hashing
+- Validation
+- Business rules
+- Pagination
+- Database migrations
+- Layered architecture
 
 ---
 
@@ -201,7 +195,7 @@ Includes:
 
 **Angular · TypeScript · Flask · SQLite**
 
-Web platform developed for nonprofit organizations, combining frontend development with a Python backend and database integration.
+Web platform combining a modern frontend with a Python backend and database integration.
 
 ---
 
@@ -221,12 +215,12 @@ A terminal-based anime application built with Go and the Bubble Tea TUI framewor
 
 # 🧪 Other Projects
 
-| Project                                                                     | Technology      | Focus                          |
-| --------------------------------------------------------------------------- | --------------- | ------------------------------ |
-| [A Queda de Chimera](https://github.com/AngeLZinS2/A-Queda-de-Chimera-Game) | GDScript        | 🎮 Game development            |
-| [Guild.Shop](https://github.com/AngeLZinS2/Guild.Shop)                      | TypeScript      | 🎮 Gaming community management |
-| [FindMe](https://github.com/AngeLZinS2/FindME_FSA)                          | TypeScript      | 📍 Local events & discovery    |
-| [Espaço Vitae](https://github.com/AngeLZinS2/espaco-vitae-v2)               | HTML · CSS · JS | 🌐 Institutional website       |
+| Project | Technology | Focus |
+| --- | --- | --- |
+| [A Queda de Chimera](https://github.com/AngeLZinS2/A-Queda-de-Chimera-Game) | GDScript | 🎮 Game development |
+| [Guild.Shop](https://github.com/AngeLZinS2/Guild.Shop) | TypeScript | 🎮 Gaming community management |
+| [FindMe](https://github.com/AngeLZinS2/FindME_FSA) | TypeScript | 📍 Local events & discovery |
+| [Espaço Vitae](https://github.com/AngeLZinS2/espaco-vitae-v2) | HTML · CSS · JS | 🌐 Institutional website |
 
 ---
 
@@ -238,15 +232,15 @@ My professional background in IT support gives me experience beyond development.
 
 I work with:
 
-* 🛠️ Technical troubleshooting
-* 🎫 Help desk & incident management
-* 🖥️ Windows environments
-* 🌐 Networks
-* 🔐 Active Directory / domain
-* 🗄️ SQL & Oracle
-* 📊 Enterprise systems
-* 🏢 TOTVS Winthor
-* 🔎 Incident investigation
+- 🛠️ Technical troubleshooting
+- 🎫 Help desk & incident management
+- 🖥️ Windows environments
+- 🌐 Networks
+- 🔐 Active Directory / domain
+- 🗄️ SQL & Oracle
+- 📊 Enterprise systems
+- 🏢 TOTVS Winthor
+- 🔎 Incident investigation
 
 This experience helps me understand software from both sides:
 
@@ -256,7 +250,7 @@ This experience helps me understand software from both sides:
 
 # 🎓 Education
 
-**Systems Analysis and Development**
+**Systems Analysis and Development**  
 Centro Universitário Nobre — UNIFAN
 
 📅 Expected completion: **2026**
@@ -265,17 +259,17 @@ Centro Universitário Nobre — UNIFAN
 
 # 🌎 Open to Global Opportunities
 
-I'm currently open to:
+I'm open to:
 
-* 🌎 International opportunities
-* 💻 Remote positions
-* ✈️ Relocation opportunities
-* 🧑‍💻 Junior Software Developer roles
-* ⚛️ Frontend Developer roles
-* 🔧 Full Stack Developer roles
-* 🐍 Python Developer roles
+- 🌎 International opportunities
+- 💻 Remote positions
+- ✈️ Relocation opportunities
+- 🧑‍💻 Junior Software Developer roles
+- ⚛️ Frontend Developer roles
+- 🔧 Full Stack Developer roles
+- 🐍 Python Developer roles
 
-I'm especially interested in opportunities involving **software development, web applications, APIs, data platforms and technology products**.
+I'm especially interested in **software development, web applications, APIs, data platforms and technology products**.
 
 ---
 
@@ -313,4 +307,50 @@ I'm especially interested in opportunities involving **software development, web
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=100&section=footer&width=100%"/>
+---
+
+# 🇧🇷 Português
+
+## 👋 Sobre mim
+
+Sou **Angelo Neri**, Desenvolvedor de Software de **Feira de Santana, Bahia, Brasil**, atualmente concluindo o curso de **Análise e Desenvolvimento de Sistemas na UNIFAN**.
+
+Meu foco é construir **aplicações web, APIs REST, plataformas orientadas a dados e ferramentas para desenvolvedores**.
+
+Trabalho principalmente com **React e TypeScript** no frontend e **Python, FastAPI e Flask** no backend, além de **PostgreSQL, SQL, integrações com APIs externas, ETL, Docker e Linux**.
+
+Também possuo experiência profissional como **Suporte Técnico N2**, atuando com sistemas corporativos, troubleshooting, SQL/Oracle e incidentes reais de TI.
+
+### Atualmente focado em
+
+- ⚛️ Desenvolvimento frontend com React + TypeScript
+- 🐍 Desenvolvimento backend com Python
+- 🔌 APIs REST e integrações externas
+- 🗄️ PostgreSQL, SQL e pipelines de dados
+- 🐳 Docker, Linux e Git
+- 🎮 Dados de games e esports
+- 🌎 Oportunidades remotas e internacionais
+
+---
+
+## 🌎 Aberto a oportunidades globais
+
+Tenho interesse em oportunidades de:
+
+- Desenvolvimento de Software
+- Frontend
+- Full Stack
+- Python
+- Projetos internacionais
+- Trabalho remoto
+- Relocation
+
+**Construindo software. Evoluindo continuamente. Olhando além das fronteiras. 🌎**
+
+<div align="center">
+
+<a href="#-english">🇺🇸 English</a>
+&nbsp;·&nbsp;
+<a href="#-português">🇧🇷 Português</a>
+
+</div>
