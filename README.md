@@ -2,355 +2,67 @@
 
 <img src="./header.svg" width="100%" alt="Angelo Neri — Software Developer"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=900&color=B57BFF&center=true&vCenter=true&width=820&lines=%3E+whoami;%3E+software+developer+building+real-world+projects;%3E+React+%2B+TypeScript+%2B+Python;%3E+APIs+%2B+PostgreSQL+%2B+Docker;%3E+open+to+remote+%26+international+opportunities+%F0%9F%8C%8E" alt="Typing SVG"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Software%20Developer-8E2DE2?style=for-the-badge&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Frontend%20%26%20Full%20Stack-4A00E0?style=for-the-badge&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Open%20to-Remote%20%2F%20Relocation-8E2DE2?style=for-the-badge&labelColor=1a1a2e"/>
-
-<br/><br/>
-
-<a href="#-english">🇺🇸 English</a>
-&nbsp;·&nbsp;
-<a href="#-português">🇧🇷 Português</a>
+[LinkedIn](https://www.linkedin.com/in/angelo-neri-3921a72b9/) · [Email](mailto:angelo.neri2020@gmail.com) · [PlayDB](https://playdb.info/)
 
 </div>
-
----
-
-# 🇺🇸 English
 
 ## 👋 About Me
 
-I'm **Angelo Neri**, a Software Developer from **Feira de Santana, Bahia, Brazil**, currently completing a degree in **Systems Analysis and Development at UNIFAN**.
+I'm **Angelo Neri**, a Software Developer based in Feira de Santana, Bahia, Brazil.
+I build web applications, REST APIs and data platforms, with a special interest in games and esports.
+I'm open to **junior frontend, full-stack and Python development opportunities**, including remote work and relocation.
 
-My focus is building **web applications, REST APIs, data-driven platforms and developer tools**.
+## 🛠️ Tech Stack
 
-I work mainly with **React and TypeScript** on the frontend and **Python, FastAPI and Flask** on the backend, with experience in **PostgreSQL, SQL, external API integrations, ETL, Docker and Linux**.
+- **Frontend:** React · TypeScript · JavaScript · Tailwind CSS · Vite
+- **Backend:** Python · FastAPI · Flask · SQLAlchemy · REST APIs
+- **Data & Tools:** PostgreSQL · SQL · ETL · Docker · Linux · Git
 
-I also have professional experience as an **N2 IT Support Technician**, working with enterprise systems, troubleshooting, SQL/Oracle and real-world technical incidents.
+## 🚀 Featured Projects
 
-### Currently focused on
+### 🎮 [PlayDB](https://github.com/AngeLZinS2/TCC-Game_Analytics)
 
-- ⚛️ React + TypeScript frontend development
-- 🐍 Python backend development
-- 🔌 REST APIs & external integrations
-- 🗄️ PostgreSQL, SQL & data pipelines
-- 🐳 Docker, Linux & Git
-- 🎮 Games & esports data
-- 🌎 Remote and international opportunities
+Games and esports data platform connecting external APIs, ETL pipelines and an analytics dashboard. My main academic project.
 
----
+**FastAPI · React · TypeScript · PostgreSQL · Docker**  
+[Explore PlayDB ↗](https://playdb.info/)
 
-## 🧠 Tech Stack
+### 🌐 [Universal Translator](https://github.com/AngeLZinS2/Universal-Translator-Live-Extension)
 
-### Frontend
+Browser extension for real-time translated captions on Twitch, YouTube and Kick, with an esports-oriented mode.
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite" />
-</p>
+**JavaScript · Manifest V3 · WebSockets · Deepgram**
 
-**React · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind CSS · Vite · Responsive UI**
+### 🏥 [Clínica Protheus](https://github.com/AngeLZinS2/Clinica-Protheus)
 
-### Backend
+Full-stack clinic management platform with patient records, appointment scheduling, authentication and audit logs.
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask" />
-</p>
+**React · Tailwind CSS · Flask · SQLAlchemy · SQLite**
 
-**Python · FastAPI · Flask · REST APIs · JWT · SQLAlchemy · MVC · Service Layer**
+[More projects on GitHub →](https://github.com/AngeLZinS2?tab=repositories)
 
-### Data & Infrastructure
+## 💼 Background
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,docker,linux,git,github" />
-</p>
+**N2 IT Support — Grupo São Roque:** experience troubleshooting enterprise systems, working with SQL/Oracle and TOTVS Winthor, and investigating technical incidents.
 
-**PostgreSQL · SQLite · SQL · Oracle · ETL · Docker · Docker Compose · Linux · Git · GitHub**
+**Systems Analysis and Development — UNIFAN:** expected graduation in 2026.
 
 ---
 
-# 🚀 Featured Projects
+<details>
+<summary>🇧🇷 Sobre mim — Português</summary>
 
-## 🎮 PlayDB — Games & Database
+Sou **Angelo Neri**, desenvolvedor de software de Feira de Santana, Bahia.
+Construo aplicações web, APIs REST e plataformas de dados, com interesse especial em games e esports.
 
-<a href="https://github.com/AngeLZinS2/TCC-Game_Analytics">
-<img src="https://img.shields.io/badge/GitHub-PlayDB-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://playdb.info/">
-<img src="https://img.shields.io/badge/Live-PlayDB-8E2DE2?style=for-the-badge"/>
-</a>
+Trabalho com **React, TypeScript e Python**, usando FastAPI, Flask, PostgreSQL e Docker.
+Meus projetos em destaque são o **PlayDB**, uma plataforma de dados de games e esports; o **Universal Translator**, uma extensão de legendas traduzidas em tempo real; e a **Clínica Protheus**, um sistema de gestão de clínicas.
 
-**Python · FastAPI · React · TypeScript · PostgreSQL · Docker · ETL · REST APIs**
+Tenho experiência como **Suporte Técnico N2 no Grupo São Roque**, com sistemas corporativos, SQL/Oracle e investigação de incidentes.
+Curso **Análise e Desenvolvimento de Sistemas na UNIFAN**, com conclusão prevista para 2026.
 
-My main academic and engineering project: a data platform for **games and esports analytics**.
+Busco oportunidades **júnior em frontend, full stack ou Python**, incluindo trabalho remoto, posições internacionais e realocação.
 
-Architecture:
+[LinkedIn](https://www.linkedin.com/in/angelo-neri-3921a72b9/) · [Email](mailto:angelo.neri2020@gmail.com)
 
-```text
-External APIs
-     ↓
-Collectors
-     ↓
-Raw Data
-     ↓
-ETL / Processing
-     ↓
-PostgreSQL
-     ↓
-FastAPI
-     ↓
-React Dashboard
-```
-
-### Highlights
-
-- 🎮 Steam catalog and game data
-- 📊 Games & esports analytics
-- 🔌 Multiple external API integrations
-- 🗄️ PostgreSQL data storage
-- 🔄 ETL pipelines
-- 🐳 Dockerized services
-- ⚡ FastAPI backend
-- ⚛️ React dashboard
-- 🛡️ Rate limiting and retry strategies
-- 📦 Modular collector architecture
-
----
-
-## 🌐 Universal Translator — Live Extension
-
-<a href="https://github.com/AngeLZinS2/Universal-Translator-Live-Extension">
-<img src="https://img.shields.io/badge/GitHub-Universal%20Translator-181717?style=for-the-badge&logo=github"/>
-</a>
-
-**JavaScript · Chrome Manifest V3 · WebSockets · AudioWorklet · Deepgram · Google Translate**
-
-A browser extension for **real-time translated captions** on live streams and recorded videos.
-
-Supports **Twitch, YouTube and Kick**, with an esports-oriented mode for gaming broadcasts.
-
-### Highlights
-
-- 🎙️ Real-time speech recognition
-- 🌎 Automatic translation
-- 🔊 Browser audio processing
-- 💬 Live subtitle rendering
-- ⚡ WebSocket communication
-- 🎮 Esports mode
-- 🧩 Manifest V3 architecture
-
----
-
-## 🏥 Clínica Protheus
-
-<a href="https://github.com/AngeLZinS2/Clinica-Protheus">
-<img src="https://img.shields.io/badge/GitHub-Clínica%20Protheus-181717?style=for-the-badge&logo=github"/>
-</a>
-
-**React · Vite · Tailwind CSS · Flask · SQLAlchemy · JWT · SQLite**
-
-Full-stack clinic management platform featuring:
-
-- 🔐 Authentication & authorization
-- 👥 Patient management
-- 📅 Appointment scheduling
-- 🩺 Procedures
-- 📊 Dashboard
-- 🔎 Search & filtering
-- 📄 Pagination
-- 📝 Audit logs
-- 🧱 MVC + service-layer architecture
-
----
-
-## 🖥️ Clinic Management API
-
-<a href="https://github.com/AngeLZinS2/Back-End-Clinica">
-<img src="https://img.shields.io/badge/GitHub-Clinic%20API-181717?style=for-the-badge&logo=github"/>
-</a>
-
-**Python · Flask · SQLAlchemy · Flask-Migrate · JWT · SQLite**
-
-REST API focused on backend architecture and business logic.
-
-- RESTful CRUD
-- JWT authentication
-- Password hashing
-- Validation
-- Business rules
-- Pagination
-- Database migrations
-- Layered architecture
-
----
-
-## 🌱 NGO Web Platform
-
-<a href="https://github.com/AngeLZinS2/Angular_ong_site">
-<img src="https://img.shields.io/badge/GitHub-NGO%20Platform-181717?style=for-the-badge&logo=github"/>
-</a>
-
-**Angular · TypeScript · Flask · SQLite**
-
-Web platform combining a modern frontend with a Python backend and database integration.
-
----
-
-## 🎌 AniPT
-
-<a href="https://github.com/AngeLZinS2/AniPT">
-<img src="https://img.shields.io/badge/GitHub-AniPT-181717?style=for-the-badge&logo=github"/>
-</a>
-
-**Go · Bubble Tea · CLI · Open Source**
-
-A terminal-based anime application built with Go and the Bubble Tea TUI framework.
-
-**Open source · MIT License**
-
----
-
-# 🧪 Other Projects
-
-| Project | Technology | Focus |
-| --- | --- | --- |
-| [A Queda de Chimera](https://github.com/AngeLZinS2/A-Queda-de-Chimera-Game) | GDScript | 🎮 Game development |
-| [Guild.Shop](https://github.com/AngeLZinS2/Guild.Shop) | TypeScript | 🎮 Gaming community management |
-| [FindMe](https://github.com/AngeLZinS2/FindME_FSA) | TypeScript | 📍 Local events & discovery |
-| [Espaço Vitae](https://github.com/AngeLZinS2/espaco-vitae-v2) | HTML · CSS · JS | 🌐 Institutional website |
-
----
-
-# 💼 Professional Experience
-
-### N2 IT Support — Grupo São Roque
-
-My professional background in IT support gives me experience beyond development.
-
-I work with:
-
-- 🛠️ Technical troubleshooting
-- 🎫 Help desk & incident management
-- 🖥️ Windows environments
-- 🌐 Networks
-- 🔐 Active Directory / domain
-- 🗄️ SQL & Oracle
-- 📊 Enterprise systems
-- 🏢 TOTVS Winthor
-- 🔎 Incident investigation
-
-This experience helps me understand software from both sides:
-
-**the developer who builds it + the technical professional who supports it.**
-
----
-
-# 🎓 Education
-
-**Systems Analysis and Development**  
-Centro Universitário Nobre — UNIFAN
-
-📅 Expected completion: **2026**
-
----
-
-# 🌎 Open to Global Opportunities
-
-I'm open to:
-
-- 🌎 International opportunities
-- 💻 Remote positions
-- ✈️ Relocation opportunities
-- 🧑‍💻 Junior Software Developer roles
-- ⚛️ Frontend Developer roles
-- 🔧 Full Stack Developer roles
-- 🐍 Python Developer roles
-
-I'm especially interested in **software development, web applications, APIs, data platforms and technology products**.
-
----
-
-# 📫 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/angelo-neri-3921a72b9/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:angelo.neri2020@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/AngeLZinS2">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://playdb.info/">
-<img src="https://img.shields.io/badge/PlayDB-8E2DE2?style=for-the-badge&logo=gamepad&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-**Building software. Learning continuously. Looking beyond borders. 🌎**
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=AngeLZinS2&label=Profile%20Views&color=8E2DE2&style=for-the-badge"/>
-
-</div>
-
----
-
-# 🇧🇷 Português
-
-## 👋 Sobre mim
-
-Sou **Angelo Neri**, Desenvolvedor de Software de **Feira de Santana, Bahia, Brasil**, atualmente concluindo o curso de **Análise e Desenvolvimento de Sistemas na UNIFAN**.
-
-Meu foco é construir **aplicações web, APIs REST, plataformas orientadas a dados e ferramentas para desenvolvedores**.
-
-Trabalho principalmente com **React e TypeScript** no frontend e **Python, FastAPI e Flask** no backend, além de **PostgreSQL, SQL, integrações com APIs externas, ETL, Docker e Linux**.
-
-Também possuo experiência profissional como **Suporte Técnico N2**, atuando com sistemas corporativos, troubleshooting, SQL/Oracle e incidentes reais de TI.
-
-### Atualmente focado em
-
-- ⚛️ Desenvolvimento frontend com React + TypeScript
-- 🐍 Desenvolvimento backend com Python
-- 🔌 APIs REST e integrações externas
-- 🗄️ PostgreSQL, SQL e pipelines de dados
-- 🐳 Docker, Linux e Git
-- 🎮 Dados de games e esports
-- 🌎 Oportunidades remotas e internacionais
-
----
-
-## 🌎 Aberto a oportunidades globais
-
-Tenho interesse em oportunidades de:
-
-- Desenvolvimento de Software
-- Frontend
-- Full Stack
-- Python
-- Projetos internacionais
-- Trabalho remoto
-- Relocation
-
-**Construindo software. Evoluindo continuamente. Olhando além das fronteiras. 🌎**
-
-<div align="center">
-
-<a href="#-english">🇺🇸 English</a>
-&nbsp;·&nbsp;
-<a href="#-português">🇧🇷 Português</a>
-
-</div>
+</details>
